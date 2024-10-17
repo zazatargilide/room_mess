@@ -1,2 +1,2 @@
-# room_mess
-class_objects_inheritance
+#room_mess
+Learning to make class with objects and new classes with inheritance
